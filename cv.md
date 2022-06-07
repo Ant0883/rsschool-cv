@@ -25,41 +25,17 @@ I really want to become a front-end developer. Because it's interesting to me, a
 ---
 
 ## Code example:
-
 ```
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<title>Изучаем DOM</title>
+    	$("#main-heading").text("Мои друзья");
 
-</head>
+    	var friends = ["Леха", "Саня", "Рудик", "Немец", "Вася"]
 
-<body>
-	<h1 id="main-heading">Привет, мир!</h1>
-
-	<script src="https://code.jquery.com/jquery-2.1.0.js"></script>
-
-	<script>
-		$("#main-heading").text("Мои друзья");
-
-		var friends = ["Леха", "Саня", "Рудик", "Немец", "Вася"]
-
-		for (var i = 0; i < friends.length; i++) {
-			$("body").append("<p>" + friends[i] + "</p>");
-		}
-		$("p").append(" лучший!");
-		$("p").hide(0).fadeIn(5000);
-
-
-
-
-
-	</script>
-
-</body>
-</html>
-```
+    	for (var i = 0; i < friends.length; i++) {
+    		$("body").append("<p>" + friends[i] + "</p>");
+    	}
+    	$("p").append(" лучший!");
+    	$("p").hide(0).fadeIn(5000);
+		```
 
 ---
 
