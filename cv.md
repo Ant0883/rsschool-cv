@@ -70,8 +70,8 @@ No work experience yet.
 
 ## Education
 
-- **International Humanitaro Economic Institute** specialty economist - manager.
-- HTML, CSS, JS studied on his own. Through books and the internet.
+- **International Humanitaro Economic Institute** - specialty economist - manager.
+- **HTML, CSS, JS** - studied on his own. Through books and the internet.
 
 ---
 
