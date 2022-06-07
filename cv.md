@@ -26,7 +26,8 @@ I really want to become a front-end developer. Because it's interesting to me, a
 
 ## Code example:
 
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -57,8 +58,8 @@ I really want to become a front-end developer. Because it's interesting to me, a
 	</script>
 
 </body>
-</html>```
-
+</html>
+```
 
 ---
 
